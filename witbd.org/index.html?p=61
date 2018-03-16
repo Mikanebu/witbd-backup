@@ -1,0 +1,545 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>The Digital Communications Revolution: What is To be Done? &laquo;  What is To be Done</title>
+
+<link rel="stylesheet" href="http://witbd.org/wp-content/themes/witbd/style.css" type="text/css" media="screen" />
+<link rel="pingback" href="http://witbd.org/xmlrpc.php" />
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="What is To be Done &raquo; Feed" href="http://witbd.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="What is To be Done &raquo; Comments Feed" href="http://witbd.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="What is To be Done &raquo; The Digital Communications Revolution: What is To be Done? Comments Feed" href="http://witbd.org/articles/digital-communications/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/witbd.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='http://witbd.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://witbd.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://witbd.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel="canonical" href="http://witbd.org/articles/digital-communications/" />
+<link rel='shortlink' href='http://witbd.org/?p=61' />
+<link rel="alternate" type="application/json+oembed" href="http://witbd.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwitbd.org%2Farticles%2Fdigital-communications%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://witbd.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwitbd.org%2Farticles%2Fdigital-communications%2F&#038;format=xml" />
+</head>
+<body class="page-template-default page page-id-61 page-child parent-pageid-23">
+  <div id="main">
+  	<div id="logo_banner">
+      <h1><span class="hide">WiTbD - What is To be Done</span></h1>
+      <h2 class="hide">A Program For The 21st Century</h2>
+      <p class="hide">
+          You are viewing the unstyled version of this page<br />
+          You can <a href="#content" title="skip to content">skip to the content</a>, or 
+          <a href="standards.txt" title="why is this page so plain?">find out</a> why this page is unstyled for you.
+      </p>
+     </div>
+    <hr class="hide" />
+    <ul id="menu">
+    <li><a href="http://witbd.org/">Home</a></li>
+    <li><a href="http://witbd.org/articles/">Articles</a></li>
+    <li><a href="http://witbd.org/news/">News</a></li>
+    <li><a href="http://witbd.org/faq/">F.A.Q.</a></li>
+    <li><a href="http://witbd.org/about/">About</a></li>
+    <li><a href="http://witbd.org/contact/">Contact</a></li>
+    </ul>
+
+	<div id="sidebar" role="complementary">
+		<ul>
+			<li id="text-2" class="widget widget_text"><h2 class="widgettitle">Welcome</h2>
+			<div class="textwidget">To find out more about WiTbD and how <strong>you</strong> can participate see:
+
+<ul>
+  <li>
+    &raquo; <a href="/mission-statement/">Mission Statement</a>
+  </li>
+  <li>
+    &raquo; <a href="/faq/">FAQs</a>
+  </li>
+  <li>
+    &raquo; <a href="/getting-involved/">Getting Involved</a>
+  </li>
+</ul></div>
+		</li>
+<li id="meta-2" class="widget widget_meta"><h2 class="widgettitle">Meta</h2>
+			<ul>
+						<li><a href="http://witbd.org/wp-login.php">Log in</a></li>
+			<li><a href="http://witbd.org/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://witbd.org/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</li>
+		</ul>
+	</div>
+
+
+  <hr class="hide" />
+  <h3 class="hide">Main Content</h3>
+	<div id="content" class="narrowcolumn" role="main">
+
+				<div class="post" id="post-61">
+		<h2>The Digital Communications Revolution: What is To be Done?</h2>
+			<div class="entry">
+				<p>  * Author: Ben Broughton<br />
+  * Date: 2004-10-27</p>
+<h2>
+  Contents<br />
+</h2>
+<ol>
+<li>
+<a href="#N10035"><br />
+    Goal List<br />
+  </a></p>
+<ol>
+<li>
+<a href="#N10040"><br />
+      Details<br />
+    </a>
+</li>
+</ol>
+</li>
+<li>
+<a href="#N10053"><br />
+    Analysis<br />
+  </a>
+</li>
+<li>
+<a href="#N100CD"><br />
+    Technology<br />
+  </a></p>
+<ol>
+<li>
+<a href="#N100D2"><br />
+      Fibre Systems<br />
+    </a>
+</li>
+<li>
+<a href="#N1012D"><br />
+      Network Components<br />
+    </a>
+</li>
+</ol>
+</li>
+</ol>
+<h2>
+<a id="N10035" name="N10035"><br />
+  Goal List<br />
+</a><br />
+</h2>
+<ol>
+<li>
+    Optical fibre to the home available in 90% of households in the UK by 2020.
+  </li>
+</ol>
+<h3>
+<a id="N10040" name="N10040"><br />
+    Details<br />
+  </a><br />
+</h3>
+<ol>
+<li>
+      Begin deployment of fibre to the home in 100% of &#8220;greenfield&#8221; sites with no legacy architecture by 2006.
+    </li>
+<li>
+      Replace all twisted copper pair and hybrid fibre-coax connections from the home with optical fibre by 2020.
+    </li>
+<li>
+      In rural areas provide wireless connectivity to a fibre-node allowing the maximum data rate to households where a piped connection is impractical.
+    </li>
+</ol>
+<h2>
+<a id="N10053" name="N10053"><br />
+  Analysis<br />
+</a><br />
+</h2>
+<p>
+  There is still a great deal of debate within the telecommunications community as to the future of the industry, which data transfer mechanisms will predominate, and how far optical fibre will penetrate from the long haul backbone of the system to the ultimate end point at the customers household. Since the slump in the telecoms industry at the turn of the century, people&#8217;s expectations of the &#8220;insatiable demand for bandwidth&#8221; and the consequent hurried deployment of fibre to the home to supply it, have had to be drastically revised, causing a massive correction in the market value of telecoms related companies. The ability to send relatively large amounts of digital data along the existing copper-based telephone systems of most developed countries, and the emergence of wireless technology, means that an end-to-end optical communication network may not be necessary, or even commercially viable, for decades. The sudden point of this realisation can be seen in the share prices of telecoms companies, such as the leading optical components manufacturer JDS Uniphase. Massively overvalued at over $100 billion in 2000, the telecoms slump brought this suddenly to $5 billion where it has remained since.
+</p>
+<p><img alt="Figure 1: JDS Uniphase share price." src="/images/digital_communications/fig_1.gif" /></p>
+<p>
+  <em>Figure 1: JDS Uniphase share price.</em>
+</p>
+<p>
+  From an idealistic point of view, however, with regard to providing a communications network for the 21st century and beyond, the only answer to the question &#8220;what is to be done?&#8221; is to lay fibre to the home, and the sooner the better. This is because optical fibre far outstrips any other medium for transporting large volumes of data quickly and cheaply over long distances. If we are to realise an age where we have unlimited access to information and all our communications services come to us through a single port built into the home, fibre is the only option.
+</p>
+<p>
+  The existing twisted copper pair technology which provides most people today with their phone line and broadband internet via digital subscriber line (DSL) technology, is capable of transferring up to approximately 8 million bits per second (Mb/s) of information between peoples houses and the telephone company&#8217;s local exchange. With optical fibre delivering information to a specific neighbourhood, and coaxial cable covering the final section to the house, as in most cable television infrastructures, 50 Mb/s is achievable. This is a great deal of information capacity, approximately a feature length DVD in 10 minutes, and the anticipated limit for information carrying without the need to replace existing architecture and lay fibre to every home is an even larger 100Mb/s [[#1#]]. This is likely to be able to provide for consumer demand for years to come, but will not be enough to facilitate the dream of hundreds of digital television channels, video on demand, virtual commuting and massive information sharing ability, all through one port. A single fibre optic cable is capable of carrying information at over 100 gigabits per second on a single wavelength channel, and with multiple wavelength channels transmitting simultaneously down a single fibre (known as dense wavelength division multiplexing, DWDM), the perceived limit is in the tens of terabits per second, enough to carry all of North America&#8217;s data traffic several times over, down a single fibre. It is reasonable to assume that this is more information capacity than anyone will ever need in the foreseeable future.
+</p>
+<p>
+  The majority of the journey any information is sent on over a long distance today is already via optical fibre, as fibre&#8217;s huge information capacity and ability to allow propagation over long distances with minimal signal loss made it instantly worthwhile to replace the copper submarine cables between continents, and  national trunk cables with fibre. Even communication networks on the citywide or &#8220;metro&#8221; level are in the process of being converted to all optical, although the layout of the actual implementation will depend on the cost of components such as optical amplifiers to boost the signal. It is only therefore the &#8220;last mile&#8221; between the telecoms company&#8217;s local exchange and the customer&#8217;s home which is likely to remain non-optical. So if we have the ability to future-proof our homes indefinitely for connectivity, dispensing with the traditional phone, TV aerial, satellite dish, VCR/DVD recorder and internet connection at once, merely by completing the last segment of an already optical network, the technology for which already exists, why is it not happening?
+</p>
+<p>
+  The reason is a combination of two factors:
+</p>
+<ol>
+<li>
+    Lack of consumer demand for increased bandwidth, meaning that the existing copper architecture will suffice for some time to come.
+  </li>
+<li>
+    The initial expense of literally digging the old cable out of the ground and replacing it with fibre, and also installing the optical components which are not cheap into millions of homes.
+  </li>
+</ol>
+<p>
+  The potential revenue from increased consumer demand will keep rising however, albeit much slower than previously thought, and the cost of optical components should fall with further developments and suitability for mass production, so it is a matter of waiting until the former is able to offset the latter. The popularity of the internet is still growing tremendously, with the number of estimated users now at 800 million [[#2#]], having approximately doubled each year through the late nineties. What is important from a telecoms perspective, though, is the total amount of traffic these users are generating. Internet traffic overtook voice traffic on the backbones somewhere in 2000-2001, and now dwarfs it. As the plot in figure 2 shows, the internet traffic on the U.S. long-haul backbone has increased faster than the number of users, suggesting that as bandwidth becomes cheaper, each user creates more traffic individually, as well as encouraging new users.
+</p>
+<p><img alt="Figure 2: Estimated US internet backbone traffic in and voice traffic in TB/Month, with the total number of internet users in millions." src="/images/digital_communications/fig_2.gif" /></p>
+<p>
+  <em><br />
+    Figure 2: Estimated US internet backbone traffic in and voice traffic in TB/Month, with the total number of internet users in millions. Data from  [[#3#]] and  [[#4#]].<br />
+  </em>
+</p>
+<p>
+  The fall in the cost of bandwidth has been phenomenal. Today, a 1Mb/s, always-on &#8220;broadband&#8221; connection is available to most UK homes with no monthly download limit for £30/month. 5 years ago, to get an equivalent amount of data to the home with a standard 56kb/s phone modem, even at 1 pence per minute off-peak rate, would have cost approximately £8000, and would have required 18 phone lines. This is an exaggerated example from the end of network cost, but even the cost for high bandwidth (&gt;500Mb/s) has dropped from $750 to $50/Mb/s/month in the last 6 years [[#2#]]. It seems that however much bandwidth can be supplied to the customer for less than around $50 per month will be readily soaked up, and services operating on this level of bandwidth will flourish, but this still leaves the chicken-and-egg problem whereby large bandwidth will not become genuinely cheap until there is large-scale take up, and that take up will not occur until bandwidth is widely available very cheaply.
+</p>
+<p>
+  Aside from the indefinite wait for the market to catch up with the technology available, this disparity between cost and potential revenue can only be resolved if:
+</p>
+<ol>
+<li>
+    Component prices plummet. This will speed up the conversion of the metro level networks to optical architecture, bringing fibre a step closer to the home, and bringing much greater bandwidth below the $50 threshold.  Development of all optical switches and routers will remove the need for electronic exchanges, again reducing costs greatly, but still demand would have to increase beyond the capability of copper in order to make the civil engineering worthwhile bringing fibre to the home.
+  </li>
+<li>
+    There is an emergence of a &#8220;killer application&#8221;, which requires huge bandwidth and is so appealing consumers would feel they can no longer live without it, and would be willing to pay enough for it to offset the costs of cable replacement.
+  </li>
+<li>
+    Several governments decide that the potential benefits of a truly interconnected society justify the costs of a publicly funded overhaul of the copper network and replacement with fibre.
+  </li>
+</ol>
+<p>
+  Components suppliers are working constantly to reduce the cost of the key devices needed for a fully point-to point optical network such as signal routers, switches and amplifiers in the hope that the viability crossover point can be brought forward.
+</p>
+<p>
+  The problem is that, for long-haul networks where fibre optics have been so successful, it is the electronic signal regeneration &#8220;repeater stations&#8221; that produce most of the cost. As these are trunk routes, there are very few network nodes, so very few optical switching and routing components are required. It is therefore device performance that is crucial, as the better the optical components perform, the greater the distances between repeaters can be, so cost is reduced overall.  As the optical network progresses to the metro level, however, transmission distances are greatly reduced, so component performance is no longer crucial, but the number of network nodes increases dramatically, so components are required in much greater number and cost, rather than performance, becomes the key factor. This problem is magnified still when fibre to the home is considered, as every single household will need an optical transceiver, which will have to be cheap enough to be &#8220;given&#8221; away to new subscribers, in the manner of a Sky digibox, in order to guarantee take up. As well as cost reduction, new devices are sought which can perform the required functions all-optically,  for the same reasons as with long distance repeater stations, anything which saves the optical signal from being converted to electronic and back again saves money. This progress, however will take time, and will still rely on there being sufficient increased demand for the technology on completion that it is worth the copper replacement costs. As long as 15 years ago, components manufacturers were designing optical transceivers to receive data at 622Mb/s and transmit at 155Mb/s, to be manufactured for $40. This is over 500 times the bandwidth of today&#8217;s standard broadband connection, yet has still not been realised due to lack of demand. For a more in-depth look at the technology of optical communication systems and network components, please see the &#8220;technology&#8221; appendix.
+</p>
+<p>
+  As for a killer application, none has emerged so far. Voice over internet protocol (VoIP) has been touted as a huge benefit of switching to an all digital connection as the cost of long distance calls could be greatly reduced, and video could be transmitted simultaneously. This has its problems though, in that IP data is transmitted in packets which can be routed separately. This has the benefit that no dedicated line for the call is required, so long-distance connections are made much cheaper, and is fine for data, but for a conversation the information needs to arrive in a constant stream which makes a dedicated connection preferable. Also the plain old telephone system (POTS) as it is referred to powers itself, allowing emergency communication in a black out, which would shut down an internet connection. Nevertheless, BT is to trial VoIP in Cambridge and Woolwich before an envisaged conversion of its whole system to the so called 21st century network (21CN) in 2008. Voice alone though, is not bandwidth hungry enough to kick-start copper replacement.  As for video phones, people are generally lukewarm to the idea, and certainly do not seem willing to pay significantly extra for it. Other high bandwidth applications such as customised television or video on demand, picture/video sharing and high bandwidth network gaming, are all either partially available over copper or satellite, or do not excite the public enough to generate serious demand.
+</p>
+<p>
+  One feature of their communication service people are willing to pay for is mobility. People routinely spend £30 to £50 per month on their mobile phone, and the introduction of a comprehensive fibre network could reduce this drastically. If most houses had a fibre connection, with vastly more bandwidth than they ever use, connected to a wireless node, their mobile phone call, and even those of passers by within range could be routed down the fibre at virtually no cost. Every house and building would effectively become a low power mobile antenna, reducing costs and negating the need for unpopular high-power masts. This could even reduce the health risk of mobile phones, with intelligent handsets detecting nearby nodes and cutting their power output accordingly.
+</p>
+<p>
+  Interestingly, the one static application which did appear to be both bandwidth-hungry and popular enough to generate serious demand was peer-to-peer file sharing of music, e.g. Napster. The illegality of this activity however has prevented it from providing the desired broadband kick-start. It has been suggested, somewhat tongue-in-cheek, that as the telecoms industry is worth roughly 20 times that of the recorded music industry, the telecoms companies should buy the record companies and make music free on the internet, but this radical a step is obviously unlikely [[#2#]].
+</p>
+<p>
+  This then leaves us with government intervention. Since the major telecoms companies such as BT are no longer government owned an outright overhaul is very unlikely. In the U.S, however, there is some political pressure to provide public subsidies and tax credits to companies rolling-out fibre, in particular to rural communities which stand to benefit the most having no cable access, and bills have been drawn up to this effect [[#5#]]. The only probable government related outcome would be pressure on developers to install fibre optic cable to the home in &#8220;greenfield&#8221; sites where there is no previous network of any kind.
+</p>
+<p>
+  In Europe, particularly Scandinavia, and some states of the US, &#8220;fibre communities&#8221; are being trialled, in which new-build housing developments are fitted with fibre to the home. This makes sense as, when building from scratch, installing fibre is only marginally costlier than installing copper for the first time, and actually cheaper than hybrid fire/coax. With falling fibre component prices, installation costs per home have now been estimated at $2057 and $2720 for fibre and coax, respectively [[#6#]]. Having the fibre in place also effectively future proofs the houses, as any changes in transmission speeds or protocols can be effected by simply changing the transceiver devices on the end-points of the fibre. This is exactly what was seen in the existing long-haul systems with the introduction of DWDM; the capacity of the fibre links between continents was multiplied simply by attaching improved transceivers at each end capable of transmitting several wavelength channels simultaneously down the same fibre. It seems the best hope at the moment is for these trials to prove extremely popular and spark an overall increase in demand.
+</p>
+<p>
+  In the UK in particular, there is a huge opportunity for this kind of trial due to the massive house-building proposals announced for the south-east. With as many as 200,000 homes planned for the next ten years, if the government takes the opportunity to enforce fibre laying to the home in all of these developments, that would provide a large enough user base &#8220;chicken&#8221; for several profitable new service &#8220;eggs&#8221;, which could then expand and spark take-up elsewhere. This is an action for which the telecommunications companies and the public in general ought to be lobbying hard. Legislation to prevent the wasteful installation of copper in brand-new developments could provide the required &#8220;kick start&#8221; for more widespread fibre roll-out.
+</p>
+<p>
+  It should be said at this point that the Far East is well ahead on fibre deployment, where in Japan in particular, fibre has been laid in much more quantity on the assumption that they will one day need it. This is a much more forward thinking approach, and consequently the completion of an all-optical network will require much less future investment there. Having the fibre in the ground already is a huge advantage, as this represents a large portion of the cost, and despite uncertainty in the final specifications of the network, all that will require changing is the transceivers at the ends of the fibre to bring the system up to date. Perhaps if an all-optical network can be established in Japan the benefits will become apparent, and demand will appear in the West. Until then, we are in the slightly unsatisfactory situation of having the capacity of copper cabling gradually improved to match gradually increasing demand, when all the while we have the technology available to effect a step-change in the level of our interconnectivity.
+</p>
+<h2>
+<a id="N100CD" name="N100CD"><br />
+  Technology<br />
+</a><br />
+</h2>
+<h3>
+<a id="N100D2" name="N100D2"><br />
+    Fibre Systems<br />
+  </a><br />
+</h3>
+<p>
+    In order to discuss current optical network components and their applications, a short introduction to the basics of fibre optics is required. An overall network architecture for a telecoms network is shown in figure 3. As can be seen it consists of a series of ring networks at three levels, the long-haul, the metro and the access level. As discussed above, the long-haul rings are all optical fibre operating dense wavelength division multiplexing systems for maximum information carrying capacity with minimal loss over distance. The metro rings are in the process of being converted to all-optical transmission, and will probably end up running DWDM. The final layout of optical metro networks will depend on how the demand for bandwidth increases from now, and how cheap optical components become. The access level network meanwhile remains electrical, with coax and twisted copper wiring running from most homes and businesses to their local exchange. Any given connection therefore will originate at the access level, cross several nodes where it is redirected on its way onto the long haul backbone, then several more switching points on its way off the backbone, through the metro level to the destination.
+  </p>
+<p>  <img alt="Figure 3: A generic telecommunications network diagram." src="/images/digital_communications/fig_3.gif" /></p>
+<p>
+    <em><br />
+      Figure 3: A generic telecommunications network diagram.<br />
+    </em>
+  </p>
+<p>
+    An example of the hardware any given signal has to traverse on its way from point-to-point is shown in figure 4. The light signal is generated at very specific wavelength by a  monochromatic semiconductor diode laser, such as a distributed feedback laser (DFB) [[#7#]]. The light output from this laser is switched on-and off very rapidly to impress upon it the desired signal for transmission. This signal, consisting of a series of very short light pulses is then fed into an optical fibre and starts its journey.
+  </p>
+<p>
+    Immediately it will be joined in the fibre at the multiplexer by a host of other signals, each carrying completely different information and consisting of light pulses which are of a very slightly different wavelength (colour). Each of the wavelength signals is then switched in a series of cross-connects to direct them to the correct destination, whereupon the individual wavelengths are singled out by the add-drop multiplexer and detected by a photodiode receiver. In order for the signal to arrive successfully, the light pulses must still be of sufficient intensity to be distinguished from the spaces between pulses, and must have not merged into one another to the point where they cannot be distinguished form one another. The two processes causing these effects are known as attenuation and dispersion respectively, and must be minimised in a communication system.
+  </p>
+<p>
+    Attenuation is loss of light from the fibre, caused by light either escaping from the fibre or being absorbed by impurities in the fibre. Light in an optical fibre is confined in a glass core which is surrounded by glass cladding of lower refractive index than the core. This causes the light to undergo total internal reflection at the core-cladding interface and channels it down the core, in exactly the same manner as observed in a stream of water by John Tindall in 1870. Light is then lost from the fibre only if the light strikes a defect in the core-cladding interface, is scattered or absorbed by impurities in the fibre, is absorbed by the silica glass or if the fibre is bent beyond the minimum radius of curvature for transmission. As modern fibres are virtually defect free and manufactured to tremendous purity, losses are very low and are governed by the fundamental limits of Rayleigh scattering which decreases with increasing wavelength, and silica absorption, which increases with wavelength. Figure 4 shows the wavelength dependent loss in silica fibre, and the &#8220;transmission windows&#8221; between the areas of high scattering and high absorption at 1300 and 1550nm.
+  </p>
+<p>  <img alt="Figure 4: The spectral absorption for silica fibre." src="/images/digital_communications/fig_4.gif" /></p>
+<p>
+    <em><br />
+      Figure 4: The spectral absorption for silica fibre.<br />
+    </em>
+  </p>
+<p>
+    As the figure shows, losses in the transmission windows are exceedingly low, down to about 0.2dB/km, meaning only 5% of the light is lost in each km of fibre. This loss, though small, is unavoidable, and must be compensated for by periodically boosting the signal. This is done using erbium doped fibre amplifier (EDFA) devices which use a laser coupled into the transmission fibre, but emitting at a shorter wavelength than the signal light, to excite erbium impurity atoms which are doped into a small section of the transmission fibre. As the signal then passes through this energised section of fibre, stimulated emission occurs and the signal is amplified on a photon by photon basis. This eliminates the need for electronic amplification of the signal.
+  </p>
+<p>
+    One disadvantage of non-electronic signal amplification, though, is that dispersion cannot be corrected at the same time. Dispersion is the spreading out of the light pulses in time as propagate. There are several sources of dispersion in fibres.
+  </p>
+<p>
+    Modal dispersion can be considered as the light rays taking different paths down the fibre. A ray which bounces back and fore across the fibre many times on its way effectively travels a longer distance than a ray which goes straight down the middle, and so takes longer. This type of dispersion is eliminated by the use of single mode fibre, which utilises an especially narrow core (&lt;10µm), to allow only light which travels straight down the fibre. Figure 5 shows the simplified differences in propagation in multimode and single mode fibres.
+  </p>
+<p>  <img alt="Figure 5: Propagation in single mode and multimode fibre." src="/images/digital_communications/fig_5.gif" /></p>
+<p>
+    <em><br />
+      Figure 5: Propagation in single mode and multimode fibre.<br />
+    </em>
+  </p>
+<p>
+    Chromatic, or material, dispersion is a result of the refractive index of the glass varying with wavelength. All light signals have a finite spectral width, so a pulse which is made up of light with a small spread of wavelengths will therefore separate as it travels. Shorter wavelength portions of the pulse will either lag or lead the longer wavelength sections, causing the pulse to merge into the space for neighbouring pulses. This is illustrated in figure 6. This can be reduced however by the use of chromatic dispersion compensators and dispersion shifted fibre, so is no longer a problem in current transmission systems. It may become a more significant problem though as systems move to higher data rates and more closely packed wavelength channels.
+  </p>
+<p>  <img alt="Figure 6: An illustration of chromatic dispersion." src="/images/digital_communications/fig_6.gif" /></p>
+<p>
+    <em><br />
+      Figure 6: An illustration of chromatic dispersion.<br />
+    </em>
+  </p>
+<p>
+    Polarisation mode dispersion (PMD) is the smallest dispersion effect in optical fibres, and is insignificant at current 10Gb/s data rates, but as 40 Gb/s and above rates become adopted, it will become a serious concern. PMD results from non-uniformities in the density of the fibre caused by bending stresses, temperature gradients and vibrations the fibre may be subject to. This causes light which is polarised in one direction, say vertically in the fibre, to travel slower then light polarised orthogonally to this. A light pulse which has components in both these directions (i.e. polarised in a direction between horizontal and vertical) will then experience two different refractive indices and will broaden as it propagates, eventually merging with neighbouring pulses and making the signal unreadable.
+  </p>
+<p>  <img alt="Figure 7: Polarisation mode dispersion illustration" src="/images/digital_communications/fig_7.gif" /></p>
+<p>
+    <em><br />
+      Figure 7: Polarisation mode dispersion illustration<br />
+    </em>
+  </p>
+<p>
+    As PMD is a result of variable environmental factors, not a fundamental property of the fibre as with modal and chromatic dispersion, the amount of pulse spreading, known as differential group delay (DGD) is constantly varying in a transmission system, so active polarization control devices are required to compensate for it. This is an ongoing area of research.
+  </p>
+<h3>
+<a id="N1012D" name="N1012D"><br />
+    Network Components<br />
+  </a><br />
+</h3>
+<p>
+    As the above outline has hopefully shown, the technology for optical communications is well established, it is mainly economic considerations which are holding back the uptake of optical systems in the metro and access levels of telecommunications systems. For this reason, most current technological research efforts are concentrating on developing components to reduce the cost of optical systems. This means cheaper equivalents of currently deployed devices, such as optical amplifiers, and new devices which can remove the need to convert the optical signal to an electronic one to perform some function, such as routing, before re-transmitting optically, thereby removing the cost that this incurs. The principal devices which current research is aiming to develop are therefore: improved cheaper EDFAs, optical add-drop multiplexers, PMD compensators and particularly all-optical cross connects.
+  </p>
+<p>
+    Optical cross-connects are devices which can direct light from any one of a number of input fibre to any one of a number of output fibres, this allows the signal to be routed along the desired path. In current networks this function is performed electronically, although all-optical versions are now commercially available. Current devices are based on micro electro-mechanical systems (MEMS) which consist of hundreds of tiny tilting mirrors which are electrically switched to deflect the light one way or another. MEMS switches are effective, but relatively slow, taking milliseconds to switch, and also suffer from scalability problems as the hundreds of mirrors required to make large port count devices require very complex software to drive them.
+  </p>
+<p>  <img alt="Figure 8: Microscope image of 2-axis MEMS mirror" src="/images/digital_communications/fig_8.gif" /></p>
+<p>
+    <em><br />
+      Figure 8: Microscope image of 2-axis MEMS mirror  [[#14#]]<br />
+    </em>
+  </p>
+<p>
+    Other technologies for this application include liquid crystal beam steerers, which use switchable holograms to route light from an input fibre to anyone of up to a thousand output fibres. In such a device an LCD display is used to generate a phase hologram (one in which the light is only slowed down in certain areas, rather than blocked), the image from which is a bright dot formed at the end of the desired output fibre. These have the advantage of being fast and scalable with no moving parts, but generally have higher losses and require further development to improve their diffraction efficiency [[#15#]].
+  </p>
+<p>  <img alt="Figure 9: Schematic of a holographic liquid crystal beam steerer." src="/images/digital_communications/fig_9.gif" /></p>
+<p>
+    <em><br />
+      Figure 9: Schematic of a holographic liquid crystal beam steerer.<br />
+    </em>
+  </p>
+<p>  <img alt="Figure 10: Illustration of LCD hologram pattern and consequent output image." src="/images/digital_communications/fig_10.gif" /></p>
+<p>
+    <em><br />
+      Figure 10: Illustration of LCD hologram pattern and consequent output image.<br />
+    </em>
+  </p>
+<p>
+    PMD compensators are devices which are capable of receiving light which is varying in its state of polarisation (SOP), and correcting this to produce a constant output polarisation, i.e. removing any differential group delay in a reversal of the process shown in figure 7, by slowing down the light polarised in the direction which travels faster in the fibre.
+  </p>
+<p>
+    A device which slows down light polarised one direction relative to light polarised orthogonally is know as a waveplate (one which introduces a delay of half a wavelength is known as a half waveplate). A series of three optical waveplates, which can each be rotated to adjust the direction of polarisation they affect, is capable of correcting any input polarisation state. If these are controlled automatically as part of a feedback loop, the system can be auto-rotated to constantly correct for the desired output despite a randomly fluctuating input SOP.
+  </p>
+<p>  <img alt="Figure 11: Layout of rotatable waveplate in fibre system for PMD compensation." src="/images/digital_communications/fig_11.gif" /></p>
+<p>
+    <em><br />
+      Figure 11: Layout of rotatable waveplate in fibre system for PMD compensation.<br />
+    </em>
+  </p>
+<p>
+    Mechanically rotatable waveplates, and those based on mechanical fibre squeezers, have been tested for this application, but more elegant solutions are being researched in which the waveplates consist of electro-optic materials in which the optic axis direction of the waveplate is determined simply by the direction of the electric field. An arrangement of radial electrodes therefore allows endless rotation of the optic axis with no moving parts and much quicker response times than any mechanical device. Electro-optic materials which have been examined for this type of device include lithium niobate [[#16#]], liquid crystals [[#17#]] and electro-optic ceramics [[#18#]]. Each of these has their own advantages in terms of response time, power consumption and optical rotation power.
+  </p>
+<p>  <img alt="Figure 12: Polarizing Microscope image of a liquid crystal rotatable waveplate." src="/images/digital_communications/fig_12.gif" /></p>
+<p>
+    <em><br />
+      Figure 12: Polarizing Microscope image of a liquid crystal rotatable waveplate.<br />
+    </em>
+  </p>
+<p>
+    It is hoped that the development of fast, reliable PMD compensators will allow cheaper upgrades of current networks from 10GB/s to 40GB/s per channel.
+  </p>
+<p>
+    Gain Flattening in EDFAs and wavelength selection for multiplexing and de-multiplexing are the remaining application undergoing development. Gain flattening is required in DWDM systems as the EDFA amplifier may not amplify all the wavelength channels equally. This can lead to distortions in the signal, so selective wavelengths have to be partially filtered out or attenuated. Wavelength multiplexing requires that very fine wavelength regions be selectively reflected or transmitted through the multiplexer. One device which is capable of gain flattening and wavelength selection is a fibre Bragg grating.
+  </p>
+<p>  fig. 13<br />
+  <img alt="Figure 13: Fibre Bragg Grating Diagram." src="/images/digital_communications/fig_13.gif" /></p>
+<p>
+    <em><br />
+      Figure 13: Fibre Bragg Grating Diagram [[#11#]].<br />
+    </em>
+  </p>
+<p>
+    The fibre Bragg grating is a section of fibre in which the glass of the core is chemically altered by UV exposure to create a periodically varying refractive index. Light with a wavelength exactly matching the periodicity of the index variation will be totally reflected due to constructive interference of the small reflections from each refractive index change (Bragg reflection) and can therefore be tapped off. The remaining wavelength channels will be transmitted. This allows very specific multiplexing of closely spaced wavelengths. Wavelengths very close to the reflection wavelength will experience partial reflection, allowing gain flattening also. Current challenges include making fibre gratings wavelength tunable and improving their wavelength selection characteristics. Other methodologies for multiplexing and gain flattening include arrayed waveguide gratings, which split a fraction of all the multiple wavelengths in a fibre and interfere them with themselves upon recombination in order to separate them into different fibres, and polymerised liquid crystal variable attenuators.
+  </p>
+<p>
+    While this hopefully has given an insight into the types of optical component being developed and how they will fit into the desired goal of an all-optical super high bandwidth communications network, it must be remembered that the perceived final network topology is still far from certain. While the economic situation and rate at which investment returns to the telecoms industry will be crucial in the type of network that finally gets deployed, so will the future development of components. Which components emerge as being able to perform certain tasks in the cheapest, most effective, most reliable manner will determine how much functionality is built into the network, which type of layout it adopts, and even which sort of protocol is used to carry the information (e.g. telecoms standards such as ATM or Ethernet). For further insight into recent developments and the online debate between experts and interested lay-people alike, please view the industry forums in  [[#11#]] and  [[#12#]].
+  </p>
+<h2>
+Bibliography and References<br />
+</h2>
+<ol class="biblio">
+<li>[1] <em><br />
+    <a href="http://the-mid-west-web.com/thespeed.htm"><br />
+  </em>
+</li>
+<li>[10] <em><br />
+    <a href="http://www.corning.com/docs/opticalfiber/fibres_coming_home.pdf"><br />
+  </em>
+</li>
+<li>[11] <em><br />
+    <a href="http://www.lightreading.com/section.asp?section_id=29"><br />
+  </em>
+</li>
+<li>[12] <em><br />
+    <a href="http://www.boardwatch.com/"><br />
+  </em>
+</li>
+<li>[13] <em><br />
+    <a href="http://www.bandwidthmarket.com"><br />
+  </em>
+</li>
+<li>[14] <em><br />
+    <a href="http://www.2cool4u.ch/wdm_dwdm/intro_allopticalswitching/into_allopticalswitching.pdf"><br />
+  </em>
+</li>
+<li>[15] <em><br />
+    <a href="http://www.eng.cam.ac.uk/research/div-b/photonics/index.html"><br />
+  </em>
+</li>
+<li>[16] <em><br />
+    <a href="http://jlt.osa.org/abstract.cfm?id=66154"><br />
+  </em>
+</li>
+<li>[17] <em><br />
+    <a href="http://jlt.osa.org/abstract.cfm?id=66069"><br />
+  </em>
+</li>
+<li>[18] <em><br />
+    <a href="http://jlt.osa.org/abstract.cfm?id=74340"><br />
+  </em>
+</li>
+<li>[2] <em><br />
+    <a href="http://www.upenn.edu/computing/group/sug/presentation/mar02/nw-state/"><br />
+  </em>
+</li>
+<li>[3] <em><br />
+    <a href="http://www.internetworldstats.com"><br />
+  </em>
+</li>
+<li>[4] <em><br />
+    <a href="http://www.dtc.umn.edu/~odlyzko"><br />
+      www.dtc.umn.edu/~odlyzko/misc/thierer-broadband-paradox</a><br />
+  </em>
+</li>
+<li>[5] <em>Solving the broadband paradox</em>, Adam D. Thierer;<br />
+    Issues in Science and Technology</p>
+<p>    2002-4
+  </li>
+<li>[7] <em><br />
+    <a href="http://www.finisar.com/frankscorner/archive.php"><br />
+  </em>
+</li>
+<li>[8] <em><br />
+    <a href="http://www.ftthcouncil.org"><br />
+  </em>
+</li>
+<li>[9] <em><br />
+    <a href="http://www.guardian.co.uk/leaders/story/0,3604,1114116,00.html"><br />
+  </em>
+</li>
+</ol>
+
+				
+			</div>
+		</div>
+				
+	
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are open, but there are no comments. -->
+
+	 
+
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/articles/digital-communications/#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://witbd.org/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" aria-required='true' />
+<label for="author"><small>Name (required)</small></label></p>
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" aria-required='true' />
+<label for="email"><small>Mail (will not be published) (required)</small></label></p>
+
+<p><input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+<label for="url"><small>Website</small></label></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><textarea name="comment" id="comment" cols="58" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='61' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+
+</form>
+
+</div>
+
+	
+	</div>
+
+<hr class="hide" />
+<div id="footer" role="contentinfo">
+	<p>
+    <a title="Valid XHTML 1.1" href="http://validator.w3.org/check/referer">
+    Valid XHTML 1.1
+    </a> 
+    &ndash; 
+    <a title="Valid CSS 1/2" href="http://jigsaw.w3.org/css-validator/check/referer">
+    Valid CSS
+    </a>
+    &ndash;
+    Licensed under the
+    <a title="CC License" 
+      href="http://creativecommons.org/licenses/by-sa/2.0/">CC Attribution - 
+      ShareAlike License (v2.0)</a>
+    <br />
+    <a href="http://witbd.org/feed/">Entries (RSS)</a>
+    and <a href="http://witbd.org/comments/feed/">Comments (RSS)</a>
+  </p>
+</div>
+</div>
+
+    <script type='text/javascript' src='http://witbd.org/wp-includes/js/comment-reply.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://witbd.org/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+</body>
+</html>

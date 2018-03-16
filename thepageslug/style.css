@@ -1,0 +1,21 @@
+/*   
+Theme Name: witbd
+Theme URI: 
+Description: Theme for What is To be Done (witbd)
+Author: Nick Stenning and Rufus Pollock
+Author URI: http://www.okfn.org/
+Version: 1.1
+Template: default
+.
+Licensed under CC by-sa v2.0
+.
+*/
+/* Think about inheriting later ... */
+/* @import url('../default/style.css'); */
+@import url("typography.css");
+@import url("structure.css");
+@import url("frontpage.css");
+
+body {
+	font-family: Georgia, "Hoefler Text", Times, "Times New Roman", Serif;
+}
